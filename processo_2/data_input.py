@@ -542,10 +542,10 @@ def main():
             "pendencias_propp": p["pendencias"],
             "projetos_em_andamento": p["projetos_em_andamento"]
         })
-    with open(os.path.join(OUTPUT_DIR, "base_interna.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUTPUT_DIR, "internal_database.json"), "w", encoding="utf-8") as f:
         json.dump(base_interna, f, indent=4)
         
-    print(f"Base interna gerada com sucesso em '{OUTPUT_DIR}/base_interna.json'")
+    print(f"Base interna gerada com sucesso em '{OUTPUT_DIR}/internal_database.json'")
 
     pesquisadores_selecionados = []
     pesquisadores_selecionados.extend([pesquisadores[0]] * 4) 

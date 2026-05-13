@@ -10,5 +10,8 @@ pydantic>=2.4.0
 langchain-openai>=0.1.0
 langchain-core>=0.1.0
 
+# Graph Database e Raciocínio Baseado em Grafos
+langgraph
+
 # Gestão de Variáveis de Ambiente (.env)
 python-dotenv>=1.0.0
