@@ -1,0 +1,20 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Matheus Augusto Cintra,
+
+Agradecemos a submissão de sua proposta e informamos que este e-mail contém o resultado da análise de enquadramento da proposta submetida a esta Pró-Reitoria.
+
+PROPOSTA_040 - <u>"Mineração de Dados em Ambientes Educacionais - Estudo de Caso 040"</u>
+
+Informamos que a referida proposta foi considerada <strong style="color: red;">NÃO ENQUADRADA</strong>. Lamentamos a recusa e detalhamos abaixo as inconformidades identificadas:
+
+📌Motivo: Inconformidades encontradas na Ficha de Pontuação (2 erro(s)).
+🔎Evidência: Existem células obrigatórias apagadas ou deixadas em branco. As colunas 'Qtde' ou 'Total' estão em branco nos seguintes itens: 
+   - 1.12. Prefácio, Posfácio e verbetes
+
+📌Motivo: O campo de TOTAL final está vazio ou foi apagado.
+🔎Evidência: A célula do somatório total geral está em branco na planilha.
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

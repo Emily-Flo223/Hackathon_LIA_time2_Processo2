@@ -1,0 +1,25 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezada Juliana Prado,
+
+Agradecemos a submissão de sua proposta e informamos que este e-mail contém o resultado da análise de enquadramento da proposta submetida.
+
+PROPOSTA_025 - <u>"Internet das Coisas aplicada à Pecuária - Estudo de Caso 025"</u>
+
+Informamos que a referida proposta foi <strong style="color: red;">NÃO ENQUADRADA</strong>, devido às seguintes inconformidades:
+
+📌Motivo: Inconformidades encontradas na Ficha de Pontuação (2 erro(s)).
+🔎Evidência: 
+- Na tabela de periódicos, um periódico foi listado sem ISSN e sem Percentil. (O periódico 'Revista Científica Avançada 1' está incompleto).
+- A quantidade de artigos pontuada não é compatível com o preenchimento da tabela de periódicos. (Soma declarada nos itens 1.1 a 1.8: 0 artigo(s) | Quantidade de periódicos detalhados na sub-tabela: 1).
+
+📌Motivo: O proponente excedeu o limite de propostas submetidas.
+🔎Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (4):
+   - Projeto de Fonte de Alimentação Linear 12V e 5V - Estudo de Caso 007 (PROPOSTA_007)
+   - Aplicações de Computação Quântica em Otimização - Estudo de Caso 039 (PROPOSTA_039)
+   - Internet das Coisas aplicada à Pecuária - Estudo de Caso 025 (PROPOSTA_025)
+   - Desenvolvimento de Jogos Educacionais Interativos - Estudo de Caso 001 (PROPOSTA_001)
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

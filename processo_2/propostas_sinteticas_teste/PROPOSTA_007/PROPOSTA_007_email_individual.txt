@@ -1,0 +1,23 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezada pesquisadora Juliana Prado,
+
+Agradecemos a submissão de sua proposta e informamos que este e-mail contém o resultado da análise de enquadramento da proposta submetida.
+
+PROPOSTA_007 - <u>"Projeto de Fonte de Alimentação Linear 12V e 5V - Estudo de Caso 007"</u>
+
+Informamos que a referida proposta foi considerada <strong style="color: red;">NÃO ENQUADRADA</strong>, devido às seguintes inconformidades:
+
+📌Motivo: Inconformidades encontradas na Ficha de Pontuação.
+🔎Evidência: Inconsistência no somatório final da ficha. Soma calculada: 27.0 | Declarado: 12.0
+
+📌Motivo: O proponente excedeu o limite de propostas submetidas.
+🔎Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (4):
+   - Projeto de Fonte de Alimentação Linear 12V e 5V - Estudo de Caso 007 (PROPOSTA_007)
+   - Aplicações de Computação Quântica em Otimização - Estudo de Caso 039 (PROPOSTA_039)
+   - Internet das Coisas aplicada à Pecuária - Estudo de Caso 025 (PROPOSTA_025)
+   - Desenvolvimento de Jogos Educacionais Interativos - Estudo de Caso 001 (PROPOSTA_001)
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

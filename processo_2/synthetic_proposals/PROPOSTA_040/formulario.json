@@ -1,0 +1,88 @@
+{
+    "id_proposta": "PROPOSTA_040",
+    "dados_coordenador": {
+        "nome": "Ricardo Gomes",
+        "1_nivel_academico": "Doutorado",
+        "2_vinculo_institucional": "Docente efetivo do quadro",
+        "3_pos_graduacao": "Membro permanente do Programa de P\u00f3s-Gradua\u00e7\u00e3o stricto sensu da UFMS.",
+        "4_link_lattes": "http://lattes.cnpq.br/7155299547390394",
+        "5_numero_orcid": "0000-0003-5484-8182",
+        "6_cpf": "101.101.101-10",
+        "22_retorno_licenca_maternidade_ou_adotante": "N\u00e3o",
+        "23_servidor_empossado_ultimos_tres_anos": "N\u00e3o"
+    },
+    "dados_projeto": {
+        "7_titulo_plano_trabalho": "Desenvolvimento de Interface LCD para Sistemas de Controle - Estudo de Caso 040",
+        "8_palavras_chave": [
+            "Simula\u00e7\u00e3o",
+            "Tecnologia",
+            "Inova\u00e7\u00e3o"
+        ],
+        "9_programa": "PIBIC - Programa Institucional de Bolsas de Inicia\u00e7\u00e3o Cient\u00edfica",
+        "10_areas_conhecimento": [
+            "Engenharias"
+        ],
+        "11_titulo_projeto_pesquisa_em_andamento": "Automa\u00e7\u00e3o de Estufa Agr\u00edcola com Controle de Temperatura e Ilumina\u00e7\u00e3o",
+        "12_nome_coordenador_projeto_andamento": "Ricardo Gomes",
+        "13_unidade_executora": "FAMEZ",
+        "14_unidade_orgao_execucao": "Universidade Federal de Mato Grosso do Sul",
+        "15_inicio_previsto": "01/09/2024",
+        "16_duracao_meses": 12,
+        "17_gera_patente": "N\u00e3o",
+        "18_possui_inovacao_tecnologica": "Sim",
+        "19_objetivos_desenvolvimento_sustentavel": [
+            "ODS 9: Construir infraestruturas resilientes, promover a industrializa\u00e7\u00e3o inclusiva e sustent\u00e1vel e fomentar a inova\u00e7\u00e3o"
+        ],
+        "20_areas_prioritarias_mcti": "Tecnologias Estrat\u00e9gicas",
+        "21_areas_estrategicas_ms": "Bioeconomia e Agroneg\u00f3cio",
+        "24_envolve_estudante_em_projeto_ciencia_basica": "Sim",
+        "25_ficha_pontuacao_arquivo": "ficha_pontuacao.xlsx",
+        "26_introducao_justificativa": "A justificativa deste projeto baseia-se na necessidade regional de automa\u00e7\u00e3o...",
+        "27_objetivos": "O objetivo principal \u00e9 projetar, implementar e validar um sistema computacional...",
+        "28_metodologia": "Ser\u00e1 empregada uma metodologia \u00e1gil dividida em tr\u00eas fases principais de desenvolvimento...",
+        "29_resultados_esperados": "Espera-se como resultado a publica\u00e7\u00e3o de pelo menos um artigo cient\u00edfico e o desenvolvimento de um prot\u00f3tipo.",
+        "30_impacto_social": "Melhoria direta no setor produtivo local e forma\u00e7\u00e3o de recursos humanos qualificados.",
+        "31_cronograma": [
+            {
+                "atividade": "Revis\u00e3o Bibliogr\u00e1fica",
+                "mes_inicio": 1,
+                "duracao_meses": 2
+            },
+            {
+                "atividade": "Desenvolvimento do Prot\u00f3tipo",
+                "mes_inicio": 3,
+                "duracao_meses": 6
+            },
+            {
+                "atividade": "Escrita e Submiss\u00e3o de Artigo",
+                "mes_inicio": 9,
+                "duracao_meses": 3
+            }
+        ],
+        "32_referencias": "SILVA, A. Computa\u00e7\u00e3o Aplicada. 2. ed. S\u00e3o Paulo: Editora XPTO, 2023.",
+        "33_anexo_plano_trabalho_pdf": "plano_trabalho_completo.pdf"
+    },
+    "dados_estudante": {
+        "34_programa_contemplado_resultado_final": "PIBIC-UFMS (Programa de Inicia\u00e7\u00e3o com fomento da UFMS)",
+        "35_nome_estudante": "Estudante Bolsista 40",
+        "36_sexo": "Masculino",
+        "37_autodeclaracao_etnica": "Preta",
+        "38_tipo_vaga": "Ampla concorr\u00eancia",
+        "39_passaporte_ufms": "estudante.040@ufms.br",
+        "40_unidade": "FAMEZ",
+        "41_cpf": "861.152.478-14",
+        "42_rga": "2027705497",
+        "43_curso": "Ci\u00eancia da Computa\u00e7\u00e3o",
+        "44_link_curriculo_lattes": "http://lattes.cnpq.br/1851065980676979",
+        "45_email": "estudante.040@ufms.br",
+        "46_telefone": "(67) 99999-0000",
+        "47_informacoes_bancarias": {
+            "banco": "Banco do Brasil",
+            "codigo_banco": "001",
+            "numero_agencia": "1234",
+            "numero_conta": "5678-9"
+        },
+        "48_termo_concessao_ou_responsabilidade": "termo_assinado.pdf",
+        "49_substituicao_estudante": "N\u00e3o"
+    }
+}
