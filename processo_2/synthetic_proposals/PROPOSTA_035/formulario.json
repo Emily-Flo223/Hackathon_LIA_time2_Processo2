@@ -1,29 +1,29 @@
 {
     "id_proposta": "PROPOSTA_035",
     "dados_coordenador": {
-        "nome": "Eduardo Henrique Lima",
-        "1_nivel_academico": "Mestrado",
+        "nome": "Roberto Yamashita",
+        "1_nivel_academico": "Doutorado",
         "2_vinculo_institucional": "Docente efetivo do quadro",
         "3_pos_graduacao": "Membro permanente do Programa de P\u00f3s-Gradua\u00e7\u00e3o stricto sensu da UFMS.",
-        "4_link_lattes": "http://lattes.cnpq.br/8887386882559144",
-        "5_numero_orcid": "0000-0009-4716-6201",
-        "6_cpf": "505.505.505-50",
+        "4_link_lattes": "http://lattes.cnpq.br/2983745938965111",
+        "5_numero_orcid": "0000-0008-3013-4294",
+        "6_cpf": "888.888.888-88",
         "22_retorno_licenca_maternidade_ou_adotante": "N\u00e3o",
         "23_servidor_empossado_ultimos_tres_anos": "N\u00e3o"
     },
     "dados_projeto": {
-        "7_titulo_plano_trabalho": "Intelig\u00eancia Artificial Explic\u00e1vel para Diagn\u00f3stico M\u00e9dico - Estudo de Caso 035",
+        "7_titulo_plano_trabalho": "Desenvolvimento de Aplicativos Inclusivos para Deficientes Visuais - Estudo de Caso 035",
         "8_palavras_chave": [
-            "Simula\u00e7\u00e3o",
-            "Tecnologia",
-            "Inova\u00e7\u00e3o"
+            "IoT",
+            "Big Data",
+            "Educa\u00e7\u00e3o Digital"
         ],
-        "9_programa": "PIBIC - Programa Institucional de Bolsas de Inicia\u00e7\u00e3o Cient\u00edfica",
+        "9_programa": "PIBIC-AF - Programa Institucional de Bolsas de Inicia\u00e7\u00e3o Cient\u00edfica Nas A\u00e7\u00f5es Afirmativas",
         "10_areas_conhecimento": [
-            "Engenharias"
+            "Ci\u00eancias Sociais Aplicadas"
         ],
-        "11_titulo_projeto_pesquisa_em_andamento": "Desenvolvimento de Rob\u00f4s M\u00f3veis Aut\u00f4nomos",
-        "12_nome_coordenador_projeto_andamento": "Eduardo Henrique Lima",
+        "11_titulo_projeto_pesquisa_em_andamento": "Projeto de Fonte de Alimenta\u00e7\u00e3o Linear 12V e 5V",
+        "12_nome_coordenador_projeto_andamento": "Roberto Yamashita",
         "13_unidade_executora": "FAENG",
         "14_unidade_orgao_execucao": "Universidade Federal de Mato Grosso do Sul",
         "15_inicio_previsto": "01/09/2024",
@@ -31,17 +31,17 @@
         "17_gera_patente": "N\u00e3o",
         "18_possui_inovacao_tecnologica": "Sim",
         "19_objetivos_desenvolvimento_sustentavel": [
-            "ODS 9: Construir infraestruturas resilientes, promover a industrializa\u00e7\u00e3o inclusiva e sustent\u00e1vel e fomentar a inova\u00e7\u00e3o"
+            "ODS 11: Cidades e Comunidades Sustent\u00e1veis"
         ],
-        "20_areas_prioritarias_mcti": "Tecnologias Estrat\u00e9gicas",
-        "21_areas_estrategicas_ms": "Bioeconomia e Agroneg\u00f3cio",
-        "24_envolve_estudante_em_projeto_ciencia_basica": "Sim",
+        "20_areas_prioritarias_mcti": "Qualidade de Vida",
+        "21_areas_estrategicas_ms": "Sa\u00fade e Biotecnologia",
+        "24_envolve_estudante_em_projeto_ciencia_basica": "N\u00e3o",
         "25_ficha_pontuacao_arquivo": "ficha_pontuacao.xlsx",
-        "26_introducao_justificativa": "A justificativa deste projeto baseia-se na necessidade regional de automa\u00e7\u00e3o...",
-        "27_objetivos": "O objetivo principal \u00e9 projetar, implementar e validar um sistema computacional...",
-        "28_metodologia": "Ser\u00e1 empregada uma metodologia \u00e1gil dividida em tr\u00eas fases principais de desenvolvimento...",
-        "29_resultados_esperados": "Espera-se como resultado a publica\u00e7\u00e3o de pelo menos um artigo cient\u00edfico e o desenvolvimento de um prot\u00f3tipo.",
-        "30_impacto_social": "Melhoria direta no setor produtivo local e forma\u00e7\u00e3o de recursos humanos qualificados.",
+        "26_introducao_justificativa": "A justificativa deste projeto baseia-se na necessidade regional de inova\u00e7\u00e3o...",
+        "27_objetivos": "O objetivo principal \u00e9 projetar, implementar e validar novas solu\u00e7\u00f5es...",
+        "28_metodologia": "Ser\u00e1 empregada uma metodologia \u00e1gil e revis\u00e3o sistem\u00e1tica...",
+        "29_resultados_esperados": "Espera-se como resultado a publica\u00e7\u00e3o de artigos e forma\u00e7\u00e3o de RH.",
+        "30_impacto_social": "Melhoria direta no setor produtivo local.",
         "31_cronograma": [
             {
                 "atividade": "Revis\u00e3o Bibliogr\u00e1fica",
@@ -49,32 +49,32 @@
                 "duracao_meses": 2
             },
             {
-                "atividade": "Desenvolvimento do Prot\u00f3tipo",
+                "atividade": "Desenvolvimento e Coleta de Dados",
                 "mes_inicio": 3,
                 "duracao_meses": 6
             },
             {
-                "atividade": "Escrita e Submiss\u00e3o de Artigo",
+                "atividade": "An\u00e1lise de Resultados e Escrita",
                 "mes_inicio": 9,
                 "duracao_meses": 3
             }
         ],
-        "32_referencias": "SILVA, A. Computa\u00e7\u00e3o Aplicada. 2. ed. S\u00e3o Paulo: Editora XPTO, 2023.",
+        "32_referencias": "SILVA, A. Pesquisa Aplicada. 2. ed. S\u00e3o Paulo: Editora XPTO, 2023.",
         "33_anexo_plano_trabalho_pdf": "plano_trabalho_completo.pdf"
     },
     "dados_estudante": {
-        "34_programa_contemplado_resultado_final": "PIBIC-UFMS (Programa de Inicia\u00e7\u00e3o com fomento da UFMS)",
-        "35_nome_estudante": "Estudante Bolsista 35",
-        "36_sexo": "Feminino",
-        "37_autodeclaracao_etnica": "Ind\u00edgena",
+        "34_programa_contemplado_resultado_final": "PIBIC-AF-UFMS (Programa de Inicia\u00e7\u00e3o com fomento da UFMS)",
+        "35_nome_estudante": "Cris Gomes",
+        "36_sexo": "Masculino",
+        "37_autodeclaracao_etnica": "N\u00e3o declarada",
         "38_tipo_vaga": "Ampla concorr\u00eancia",
-        "39_passaporte_ufms": "estudante.035@ufms.br",
+        "39_passaporte_ufms": "cris.gomes",
         "40_unidade": "FAENG",
-        "41_cpf": "461.981.910-69",
-        "42_rga": "2022193167",
-        "43_curso": "Ci\u00eancia da Computa\u00e7\u00e3o",
-        "44_link_curriculo_lattes": "http://lattes.cnpq.br/2983103474983727",
-        "45_email": "estudante.035@ufms.br",
+        "41_cpf": "172.920.293-83",
+        "42_rga": "2026235583",
+        "43_curso": "Engenharia de Software",
+        "44_link_curriculo_lattes": "http://lattes.cnpq.br/5763076209069760",
+        "45_email": "cris.gomes@ufms.br",
         "46_telefone": "(67) 99999-0000",
         "47_informacoes_bancarias": {
             "banco": "Banco do Brasil",

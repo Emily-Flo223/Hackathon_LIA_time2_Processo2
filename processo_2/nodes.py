@@ -766,20 +766,43 @@ def generate_consolidated_report(states: list, output_path: str):
         status = s.get("status_enquadramento")
         resultados = s.get("resultados_validacao", [])
         
-        # Puxa os dados para a planilha
-        nome_coord = s.get("dados_formulario", {}).get("dados_coordenador", {}).get("nome", "N/A")
-        titulo_proj = s.get("dados_formulario", {}).get("dados_projeto", {}).get("7_titulo_plano_trabalho", "N/A")
-        unidade = s.get("dados_formulario", {}).get("dados_projeto", {}).get("13_unidade_executora", "N/A")
+        # Facilita o acesso aos dicionários do formulário
+        dados_proj = s.get("dados_formulario", {}).get("dados_projeto", {})
+        dados_coord = s.get("dados_formulario", {}).get("dados_coordenador", {})
+        
+        nome_coord = dados_coord.get("nome", "N/A")
+        titulo_proj = dados_proj.get("7_titulo_plano_trabalho", "N/A")
+        unidade = dados_proj.get("13_unidade_executora", "N/A")
+        
+        # ==========================================================
+        # EXTRAÇÃO DOS NOVOS DADOS PARA O DASHBOARD STREAMLIT
+        # ==========================================================
+        
+        # 1. ODS (Pega só a sigla antes dos dois pontos, ex: "ODS 9")
+        ods_lista = dados_proj.get("19_objetivos_desenvolvimento_sustentavel", ["Não Informado"])
+        ods_sigla = ods_lista[0].split(":")[0] if ods_lista else "Não Informado"
+        
+        # 2. Área de Conhecimento
+        area_lista = dados_proj.get("10_areas_conhecimento", ["Não Informada"])
+        area_conhecimento = area_lista[0] if area_lista else "Não Informada"
+        
+        # 3. Potencial de Inovação e Patente
+        inovacao = dados_proj.get("18_possui_inovacao_tecnologica", "Não")
+        patente = dados_proj.get("17_gera_patente", "Não")
         
         erros = [r for r in resultados if not r.passou]
         
-        # Colunas executivas para a PROPP
+        # Adiciona as novas colunas na planilha
         rows.append({
             "ID da Proposta": id_prop,
             "Unidade": unidade,
+            "Área de Conhecimento": area_conhecimento, # NOVA COLUNA
             "Coordenador": nome_coord,
             "Título do Projeto": titulo_proj,
             "Status Final": status,
+            "ODS Vinculado": ods_sigla,                # NOVA COLUNA
+            "Inovação Tecnológica": inovacao,          # NOVA COLUNA
+            "Gera Patente": patente,                   # NOVA COLUNA
             "Qtd Inconformidades": len(erros)
         })
         
@@ -795,20 +818,19 @@ def generate_consolidated_report(states: list, output_path: str):
     else:
         df_stats = pd.DataFrame({"Aviso": ["100% das propostas foram aprovadas. Nenhum erro encontrado."]})
 
-    # Adicionado engine='openpyxl' para garantir compatibilidade
     with pd.ExcelWriter(output_path, engine='openpyxl') as writer:
         df_geral.to_excel(writer, sheet_name="Resumo Propostas", index=False)
         df_stats.to_excel(writer, sheet_name="Estatísticas de Erros", index=False)
         
-        # Ajuste de largura das colunas usando a sintaxe correta do openpyxl
         worksheet = writer.sheets['Resumo Propostas']
         for i, col in enumerate(df_geral.columns):
-            col_letter = chr(65 + i) # Mágica simples: Converte o índice 0 em 'A', 1 em 'B', etc.
+            col_letter = chr(65 + i) 
             max_len = max(df_geral[col].astype(str).map(len).max(), len(col)) + 2
             worksheet.column_dimensions[col_letter].width = min(max_len, 50)
     
     print(f"📊 Relatório consolidado gerado com sucesso: {output_path}")
 
+'''
 # ---------------------------------------------------------
 # 11. TESTE INTEGRADO (Ingestão + Titulação + Ficha de Pontuação + Limite de Propostas + Pendências e Projetos + Decisão + E-mail Consolidado + Relatório Excel)
 # ---------------------------------------------------------
@@ -875,3 +897,4 @@ if __name__ == "__main__":
         
         print("\n✅ Processamento em lote finalizado com sucesso!")
         print(f"📁 Relatórios consolidados e E-mails foram salvos na pasta: {DIRETORIO_OUTPUTS}")
+'''

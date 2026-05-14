@@ -1,0 +1,15 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezada Ana Lopes da Silva,
+
+Agradecemos a submissão de suas propostas. Informamos que este e-mail contém o resultado da análise de enquadramento de todos os projetos submetidos por você, sendo que 0 foram enquadrados e 1 foi não enquadrado.
+
+<u>PROPOSTA_001 - Modelagem de Sistemas Multiagentes - Estudo de Caso 001</u>
+Status: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+📌Motivo: Inconformidades encontradas na Ficha (1 erro(s)).
+🔎Evidência: Inconsistência no somatório final da ficha. Soma calculada: 54.0 | Declarado: 44.0
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

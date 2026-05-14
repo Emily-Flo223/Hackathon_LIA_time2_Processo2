@@ -162,7 +162,7 @@ temas_projetos = [
     "Análise de Indicadores ESG na Administração Pública",
     "Implementação de Propriedades ACID em Bancos de Dados",
     "Desenvolvimento de Interface LCD para Sistemas de Controle",
-     "Inteligência Artificial Explicável para Diagnóstico Médico",
+    "Inteligência Artificial Explicável para Diagnóstico Médico",
     "Desenvolvimento de Robôs Móveis Autônomos",
     "Análise Preditiva em Dados Epidemiológicos",
     "Segurança Cibernética em Infraestruturas Críticas",
@@ -592,33 +592,69 @@ def main():
             },
             "dados_projeto": {
                 "7_titulo_plano_trabalho": titulo_unico,
-                "8_palavras_chave": ["Simulação", "Tecnologia", "Inovação"],
+                
+                # ADICIONADO: Palavras-chave variadas
+                "8_palavras_chave": random.sample([
+                    "Inteligência Artificial", "Sustentabilidade", "Inovação", "Automação", 
+                    "Saúde Pública", "Educação Digital", "Big Data", "Biotecnologia", 
+                    "Energias Renováveis", "Robótica", "Machine Learning", "IoT"
+                ], k=3),
+                
                 "9_programa": mapa_programas[sigla_modalidade],
-                "10_areas_conhecimento": ["Engenharias"],
+                
+                # ADICIONADO: Áreas de conhecimento variadas
+                "10_areas_conhecimento": [random.choice([
+                    "Engenharias", "Ciências Exatas e da Terra", "Ciências Biológicas", 
+                    "Ciências da Saúde", "Ciências Agrárias", "Ciências Sociais Aplicadas"
+                ])],
+                
                 "11_titulo_projeto_pesquisa_em_andamento": titulo_andamento,
                 "12_nome_coordenador_projeto_andamento": pesquisador["nome"],
                 "13_unidade_executora": pesquisador["unidade_lotacao"],
                 "14_unidade_orgao_execucao": "Universidade Federal de Mato Grosso do Sul",
                 "15_inicio_previsto": "01/09/2024",
                 "16_duracao_meses": 12,
-                "17_gera_patente": "Não",
-                "18_possui_inovacao_tecnologica": "Sim",
-                "19_objetivos_desenvolvimento_sustentavel": ["ODS 9: Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação"],
-                "20_areas_prioritarias_mcti": "Tecnologias Estratégicas",
-                "21_areas_estrategicas_ms": "Bioeconomia e Agronegócio",
-                "24_envolve_estudante_em_projeto_ciencia_basica": "Sim",
+                "17_gera_patente": random.choice(["Sim", "Não", "Não"]), # Maioria "Não"
+                "18_possui_inovacao_tecnologica": random.choice(["Sim", "Sim", "Não"]), # Maioria "Sim"
+                
+                # ADICIONADO: ODS Diversificados
+                "19_objetivos_desenvolvimento_sustentavel": [random.choice([
+                    "ODS 9: Indústria, Inovação e Infraestrutura", 
+                    "ODS 4: Educação de Qualidade", 
+                    "ODS 3: Saúde e Bem-Estar", 
+                    "ODS 2: Fome Zero e Agricultura Sustentável",
+                    "ODS 11: Cidades e Comunidades Sustentáveis",
+                    "ODS 7: Energia Limpa e Acessível"
+                ])],
+                
+                "20_areas_prioritarias_mcti": random.choice([
+                    "Tecnologias Estratégicas", "Desenvolvimento Sustentável", "Qualidade de Vida"
+                ]),
+                "21_areas_estrategicas_ms": random.choice([
+                    "Bioeconomia e Agronegócio", "Saúde e Biotecnologia", "TI e Automação"
+                ]),
+                
+                "24_envolve_estudante_em_projeto_ciencia_basica": random.choice(["Sim", "Não"]),
                 "25_ficha_pontuacao_arquivo": "ficha_pontuacao.xlsx",
-                "26_introducao_justificativa": "A justificativa deste projeto baseia-se na necessidade regional de automação...",
-                "27_objetivos": "O objetivo principal é projetar, implementar e validar um sistema computacional...",
-                "28_metodologia": "Será empregada uma metodologia ágil dividida em três fases principais de desenvolvimento...",
-                "29_resultados_esperados": "Espera-se como resultado a publicação de pelo menos um artigo científico e o desenvolvimento de um protótipo.",
-                "30_impacto_social": "Melhoria direta no setor produtivo local e formação de recursos humanos qualificados.",
+                "26_introducao_justificativa": "A justificativa deste projeto baseia-se na necessidade regional de inovação...",
+                "27_objetivos": "O objetivo principal é projetar, implementar e validar novas soluções...",
+                "28_metodologia": "Será empregada uma metodologia ágil e revisão sistemática...",
+                "29_resultados_esperados": "Espera-se como resultado a publicação de artigos e formação de RH.",
+                
+                # ADICIONADO: Impactos Sociais variados
+                "30_impacto_social": random.choice([
+                    "Melhoria direta no setor produtivo local.",
+                    "Acesso facilitado à informação para comunidades carentes.",
+                    "Redução de custos operacionais no sistema público de saúde.",
+                    "Otimização do uso de recursos naturais na agricultura do estado."
+                ]),
+                
                 "31_cronograma": [
                     {"atividade": "Revisão Bibliográfica", "mes_inicio": 1, "duracao_meses": 2},
-                    {"atividade": "Desenvolvimento do Protótipo", "mes_inicio": 3, "duracao_meses": 6},
-                    {"atividade": "Escrita e Submissão de Artigo", "mes_inicio": 9, "duracao_meses": 3}
+                    {"atividade": "Desenvolvimento e Coleta de Dados", "mes_inicio": 3, "duracao_meses": 6},
+                    {"atividade": "Análise de Resultados e Escrita", "mes_inicio": 9, "duracao_meses": 3}
                 ],
-                "32_referencias": "SILVA, A. Computação Aplicada. 2. ed. São Paulo: Editora XPTO, 2023.",
+                "32_referencias": "SILVA, A. Pesquisa Aplicada. 2. ed. São Paulo: Editora XPTO, 2023.",
                 "33_anexo_plano_trabalho_pdf": "plano_trabalho_completo.pdf"
             },
             "dados_estudante": {
@@ -631,7 +667,7 @@ def main():
                 "40_unidade": pesquisador["unidade_lotacao"],
                 "41_cpf": f"{random.randint(100,999)}.{random.randint(100,999)}.{random.randint(100,999)}-{random.randint(10,99)}",
                 "42_rga": f"202{random.randint(1000000,9999999)}",
-                "43_curso": "Ciência da Computação",
+                "43_curso": random.choice(["Ciência da Computação", "Engenharia de Software", "Sistemas de Informação", "Medicina Veterinária", "Agronomia", "Enfermagem"]),
                 "44_link_curriculo_lattes": f"http://lattes.cnpq.br/{random.randint(1000000000000000, 9999999999999999)}",
                 "45_email": f"estudante.{i+1:03d}@ufms.br",
                 "46_telefone": "(67) 99999-0000",

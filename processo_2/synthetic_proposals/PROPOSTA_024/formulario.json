@@ -1,47 +1,47 @@
 {
     "id_proposta": "PROPOSTA_024",
     "dados_coordenador": {
-        "nome": "Aline Bezerra Soares",
+        "nome": "Carlos Alberto Shinaider",
         "1_nivel_academico": "Doutorado",
         "2_vinculo_institucional": "Docente efetivo do quadro",
         "3_pos_graduacao": "Membro permanente do Programa de P\u00f3s-Gradua\u00e7\u00e3o stricto sensu da UFMS.",
-        "4_link_lattes": "http://lattes.cnpq.br/7402001725603017",
-        "5_numero_orcid": "0000-0008-3377-9491",
-        "6_cpf": "777.777.777-77",
+        "4_link_lattes": "http://lattes.cnpq.br/5697150074293364",
+        "5_numero_orcid": "0000-0005-1613-3308",
+        "6_cpf": "333.333.333-33",
         "22_retorno_licenca_maternidade_ou_adotante": "N\u00e3o",
         "23_servidor_empossado_ultimos_tres_anos": "N\u00e3o"
     },
     "dados_projeto": {
-        "7_titulo_plano_trabalho": "Modelagem de Sistemas Multiagentes - Estudo de Caso 024",
+        "7_titulo_plano_trabalho": "An\u00e1lise de Sentimentos em Redes Sociais - Estudo de Caso 024",
         "8_palavras_chave": [
-            "Simula\u00e7\u00e3o",
-            "Tecnologia",
-            "Inova\u00e7\u00e3o"
+            "Big Data",
+            "Sa\u00fade P\u00fablica",
+            "IoT"
         ],
         "9_programa": "PIBIC-AF - Programa Institucional de Bolsas de Inicia\u00e7\u00e3o Cient\u00edfica Nas A\u00e7\u00f5es Afirmativas",
         "10_areas_conhecimento": [
-            "Engenharias"
+            "Ci\u00eancias Exatas e da Terra"
         ],
-        "11_titulo_projeto_pesquisa_em_andamento": "Nenhum projeto informado",
-        "12_nome_coordenador_projeto_andamento": "Aline Bezerra Soares",
-        "13_unidade_executora": "FAODO",
+        "11_titulo_projeto_pesquisa_em_andamento": "Vis\u00e3o Computacional Aplicada",
+        "12_nome_coordenador_projeto_andamento": "Carlos Alberto Shinaider",
+        "13_unidade_executora": "FACOM",
         "14_unidade_orgao_execucao": "Universidade Federal de Mato Grosso do Sul",
         "15_inicio_previsto": "01/09/2024",
         "16_duracao_meses": 12,
         "17_gera_patente": "N\u00e3o",
-        "18_possui_inovacao_tecnologica": "Sim",
+        "18_possui_inovacao_tecnologica": "N\u00e3o",
         "19_objetivos_desenvolvimento_sustentavel": [
-            "ODS 9: Construir infraestruturas resilientes, promover a industrializa\u00e7\u00e3o inclusiva e sustent\u00e1vel e fomentar a inova\u00e7\u00e3o"
+            "ODS 4: Educa\u00e7\u00e3o de Qualidade"
         ],
-        "20_areas_prioritarias_mcti": "Tecnologias Estrat\u00e9gicas",
-        "21_areas_estrategicas_ms": "Bioeconomia e Agroneg\u00f3cio",
+        "20_areas_prioritarias_mcti": "Desenvolvimento Sustent\u00e1vel",
+        "21_areas_estrategicas_ms": "TI e Automa\u00e7\u00e3o",
         "24_envolve_estudante_em_projeto_ciencia_basica": "Sim",
         "25_ficha_pontuacao_arquivo": "ficha_pontuacao.xlsx",
-        "26_introducao_justificativa": "A justificativa deste projeto baseia-se na necessidade regional de automa\u00e7\u00e3o...",
-        "27_objetivos": "O objetivo principal \u00e9 projetar, implementar e validar um sistema computacional...",
-        "28_metodologia": "Ser\u00e1 empregada uma metodologia \u00e1gil dividida em tr\u00eas fases principais de desenvolvimento...",
-        "29_resultados_esperados": "Espera-se como resultado a publica\u00e7\u00e3o de pelo menos um artigo cient\u00edfico e o desenvolvimento de um prot\u00f3tipo.",
-        "30_impacto_social": "Melhoria direta no setor produtivo local e forma\u00e7\u00e3o de recursos humanos qualificados.",
+        "26_introducao_justificativa": "A justificativa deste projeto baseia-se na necessidade regional de inova\u00e7\u00e3o...",
+        "27_objetivos": "O objetivo principal \u00e9 projetar, implementar e validar novas solu\u00e7\u00f5es...",
+        "28_metodologia": "Ser\u00e1 empregada uma metodologia \u00e1gil e revis\u00e3o sistem\u00e1tica...",
+        "29_resultados_esperados": "Espera-se como resultado a publica\u00e7\u00e3o de artigos e forma\u00e7\u00e3o de RH.",
+        "30_impacto_social": "Otimiza\u00e7\u00e3o do uso de recursos naturais na agricultura do estado.",
         "31_cronograma": [
             {
                 "atividade": "Revis\u00e3o Bibliogr\u00e1fica",
@@ -49,32 +49,32 @@
                 "duracao_meses": 2
             },
             {
-                "atividade": "Desenvolvimento do Prot\u00f3tipo",
+                "atividade": "Desenvolvimento e Coleta de Dados",
                 "mes_inicio": 3,
                 "duracao_meses": 6
             },
             {
-                "atividade": "Escrita e Submiss\u00e3o de Artigo",
+                "atividade": "An\u00e1lise de Resultados e Escrita",
                 "mes_inicio": 9,
                 "duracao_meses": 3
             }
         ],
-        "32_referencias": "SILVA, A. Computa\u00e7\u00e3o Aplicada. 2. ed. S\u00e3o Paulo: Editora XPTO, 2023.",
+        "32_referencias": "SILVA, A. Pesquisa Aplicada. 2. ed. S\u00e3o Paulo: Editora XPTO, 2023.",
         "33_anexo_plano_trabalho_pdf": "plano_trabalho_completo.pdf"
     },
     "dados_estudante": {
         "34_programa_contemplado_resultado_final": "PIBIC-AF-UFMS (Programa de Inicia\u00e7\u00e3o com fomento da UFMS)",
-        "35_nome_estudante": "Estudante Bolsista 24",
-        "36_sexo": "Masculino",
+        "35_nome_estudante": "Leonardo Monteiro",
+        "36_sexo": "Feminino",
         "37_autodeclaracao_etnica": "Branca",
-        "38_tipo_vaga": "Ampla concorr\u00eancia",
-        "39_passaporte_ufms": "estudante.024@ufms.br",
-        "40_unidade": "FAODO",
-        "41_cpf": "764.799.266-50",
-        "42_rga": "2025162369",
-        "43_curso": "Ci\u00eancia da Computa\u00e7\u00e3o",
-        "44_link_curriculo_lattes": "http://lattes.cnpq.br/4932672082947084",
-        "45_email": "estudante.024@ufms.br",
+        "38_tipo_vaga": "Cota",
+        "39_passaporte_ufms": "leonardo.monteiro",
+        "40_unidade": "FACOM",
+        "41_cpf": "552.622.763-69",
+        "42_rga": "2026745387",
+        "43_curso": "Sistemas de Informa\u00e7\u00e3o",
+        "44_link_curriculo_lattes": "http://lattes.cnpq.br/8615666913747215",
+        "45_email": "leonardo.monteiro@ufms.br",
         "46_telefone": "(67) 99999-0000",
         "47_informacoes_bancarias": {
             "banco": "Banco do Brasil",
