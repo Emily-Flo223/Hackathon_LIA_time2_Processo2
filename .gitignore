@@ -6,7 +6,14 @@ venv/
 .venv/
 env/
 
-# Cache do Python (ignora em qualquer lugar do projeto)
+# Cache do Python
 __pycache__/
 *.pyc
 *.pyo
+.pytest_cache/
+
+# Outputs gerados em tempo de execução
+outputs/
+
+# Dados de entrada (não versionar propostas e base interna)
+data/
