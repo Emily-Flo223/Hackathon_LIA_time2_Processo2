@@ -376,20 +376,31 @@ def mostrar_detalhes(proposta_id: str, voltar_para: str = "🏠 Tela Inicial (Ka
         st.markdown("---")
         st.write("#### 📝 Dados do Projeto")
         proj = dados.get("dados_projeto", {})
-        # Renderiza campos simples em tabela, campos complexos separados
-        simples   = {k: v for k, v in proj.items() if not isinstance(v, (list, dict))}
-        complexos = {k: v for k, v in proj.items() if isinstance(v, (list, dict))}
-        if simples:
-            st.dataframe(pd.DataFrame(list(simples.items()), columns=["Campo", "Valor"]),
-                         use_container_width=True, hide_index=True)
-        for k, v in complexos.items():
-            st.markdown(f"**{k.replace('_', ' ').title()}:**")
+
+        # Separa campos que são listas de dicts (sub-tabelas, ex: cronograma)
+        # de todos os outros (simples e listas simples entram na tabela principal)
+        tabela_linhas = []
+        subtabelas = {}  # chave → lista de dicts
+
+        for k, v in proj.items():
             if isinstance(v, list) and v and isinstance(v[0], dict):
-                st.dataframe(pd.DataFrame(v), use_container_width=True, hide_index=True)
+                # Ex: cronograma — exibe como sub-tabela logo abaixo
+                subtabelas[k] = v
+                tabela_linhas.append({"Campo": k.replace("_", " ").title(), "Valor": f"[ver tabela abaixo]"})
             elif isinstance(v, list):
-                st.write(", ".join(str(i) for i in v))
+                # Ex: palavras-chave, áreas de conhecimento — converte para string
+                tabela_linhas.append({"Campo": k.replace("_", " ").title(), "Valor": ", ".join(str(i) for i in v)})
+            elif isinstance(v, dict):
+                tabela_linhas.append({"Campo": k.replace("_", " ").title(), "Valor": json.dumps(v, ensure_ascii=False)})
             else:
-                st.json(v)
+                tabela_linhas.append({"Campo": k.replace("_", " ").title(), "Valor": v})
+
+        if tabela_linhas:
+            st.dataframe(pd.DataFrame(tabela_linhas), use_container_width=True, hide_index=True)
+
+        for k, v in subtabelas.items():
+            st.markdown(f"**{k.replace('_', ' ').title()}:**")
+            st.dataframe(pd.DataFrame(v), use_container_width=True, hide_index=True)
 
         if "dados_estudante" in dados:
             st.markdown("---")

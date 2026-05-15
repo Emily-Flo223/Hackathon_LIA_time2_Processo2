@@ -1,0 +1,34 @@
+{
+    "id_proposta": "PROPOSTA_037",
+    "coordenador": "Fernanda Costa Poganski",
+    "unidade_lotacao": "FACOM",
+    "titulo_projeto": "Plataforma de Ensino Adaptativo com IA - Estudo de Caso 037",
+    "status_final": "NÃO ENQUADRADA",
+    "data_processamento": "2026-05-14",
+    "auditoria": [
+        {
+            "regra": "Verificação de Titulação",
+            "passou": true,
+            "motivo": "Proponente possui titulação de Doutor concluída.",
+            "evidencia": "Título da tese: Doutorado em Engenharia Elétrica. | Instituição: Universidade de São Paulo. | Conclusão: 2010."
+        },
+        {
+            "regra": "Auditoria Completa da Ficha de Pontuação",
+            "passou": true,
+            "motivo": "Ficha aprovada: estrutura, cálculos, limites e periódicos corretos.",
+            "evidencia": "• Auditoria completa realizada com sucesso."
+        },
+        {
+            "regra": "Limite de Propostas",
+            "passou": false,
+            "motivo": "Proponente excedeu o limite de propostas submetidas.",
+            "evidencia": "Status PQ: Não (Limite: 2).\nProjetos encontrados no sistema (8):\n  - Aplicação de Redes Neurais em Reconhecimento Facial - Estudo de Caso 004 (ID: PROPOSTA_004)\n  - Predição de Séries Temporais Financeiras - Estudo de Caso 008 (ID: PROPOSTA_008)\n  - Projeto de Fonte de Alimentação Linear 12V e 5V - Estudo de Caso 011 (ID: PROPOSTA_011)\n  - Aplicações de Computação Quântica em Otimização - Estudo de Caso 025 (ID: PROPOSTA_025)\n  - Modelagem Matemática de Epidemias - Estudo de Caso 029 (ID: PROPOSTA_029)\n  - Análise de Dados Climáticos com Big Data - Estudo de Caso 030 (ID: PROPOSTA_030)\n  - Plataforma de Ensino Adaptativo com IA - Estudo de Caso 037 (ID: PROPOSTA_037)\n  - Visão Computacional para Monitoramento Ambiental - Estudo de Caso 040 (ID: PROPOSTA_040)"
+        },
+        {
+            "regra": "Histórico/Pendências do Proponente",
+            "passou": false,
+            "motivo": "Inconsistência no histórico do proponente: 1 bloqueio(s).",
+            "evidencia": "\n• Motivo: Proponente possui pendências institucionais impeditivas ativas com a PROPP.\n  Evidência: Pendências localizadas (2):\n    - [PEND-2024-089] Relatório Final PIBIC 2024/2025 em atraso (Vencimento: 2025-08-30)\n    - [PEND-2023-112] Prestação de contas do edital 15/2023 pendente (Vencimento: 2024-01-15)"
+        }
+    ]
+}

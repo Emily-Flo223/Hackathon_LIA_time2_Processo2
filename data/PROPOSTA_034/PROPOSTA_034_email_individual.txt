@@ -1,0 +1,28 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas PIBITI UFMS
+
+Prezada Pesquisadora Camila Mendes,
+
+Agradecemos a submissão de sua proposta à modalidade PIBITI - Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação. Informamos que foi concluída a análise de enquadramento da proposta detalhada abaixo:
+
+PROPOSTA_034 - <u>"Modelagem de Sistemas Multiagentes - Estudo de Caso 034"</u>
+
+Resultado: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+📌 Motivo: <u>Limite de Propostas</u>
+🔎 Evidência: Status PQ: Sim (Limite: 3). Projetos encontrados no sistema (7):
+- Aplicação de Redes Neurais em Reconhecimento Facial - Estudo de Caso 006 (ID: PROPOSTA_006)
+- Análise Automatizada de Documentos Jurídicos - Estudo de Caso 012 (ID: PROPOSTA_012)
+- Análise de Sentimentos em Redes Sociais - Estudo de Caso 019 (ID: PROPOSTA_019)
+- Aplicações de Computação Quântica em Otimização - Estudo de Caso 020 (ID: PROPOSTA_020)
+- Aplicação de Deep Learning em Diagnóstico por Imagem - Estudo de Caso 023 (ID: PROPOSTA_023)
+- Modelagem de Sistemas Multiagentes - Estudo de Caso 034 (ID: PROPOSTA_034)
+- Reconhecimento de Voz para Automação Residencial - Estudo de Caso 038 (ID: PROPOSTA_038)
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u>
+🔎 Evidência: Inconsistência no histórico do proponente: 1 bloqueio(s).
+- Motivo: Proponente não está vinculado a nenhum projeto de pesquisa em andamento.
+- Evidência: A lista de projetos em andamento retornou vazia na base interna do SIGProj/PROPP.
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

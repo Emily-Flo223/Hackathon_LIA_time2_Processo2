@@ -1,0 +1,25 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+<p>Prezado pesquisador Matheus Augusto Cintra,</p>
+
+<p>Agradecemos a submissão de sua proposta. Informamos que foi concluída a análise de enquadramento da proposta detalhada abaixo:</p>
+
+<p>PROPOSTA_035 - <u>"Uso de Drones no Monitoramento Agrícola - Estudo de Caso 035"</u></p>
+
+<p>Resultado: <strong style="color: red;">NÃO ENQUADRADA</strong></p>
+
+<p>📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (3 erro(s)).<br>
+🔎 Evidência: 
+- Motivo: Periódico sem ISSN e sem Percentil. Evidência: Periódico 'Revista Científica Avançada 3' incompleto.
+- Motivo: Quantidade de artigos incompatível com periódicos detalhados. Evidência: Artigos declarados (1.1–1.8): 2 | Periódicos na sub-tabela: 3.
+- Motivo: Quantidade declarada excede o teto máximo do critério. Evidência: Critério: '6.3. Professor com bolsa de produtividade - CNPq' | Limite: 1 | Declarado: 2</p>
+
+<p>📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.<br>
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (3):
+- Reconhecimento de Voz para Automação Residencial - Estudo de Caso 003 (ID: PROPOSTA_003)
+- Uso de Drones no Monitoramento Agrícola - Estudo de Caso 035 (ID: PROPOSTA_035)
+- Desenvolvimento de Robôs Móveis Autônomos - Estudo de Caso 039 (ID: PROPOSTA_039)</p>
+
+<p>Atenciosamente,</p>
+
+<p>Equipe SEICT/DIPEQ/PROPP - UFMS</p>

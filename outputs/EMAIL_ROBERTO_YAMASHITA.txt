@@ -1,0 +1,18 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Professor Roberto Yamashita,
+
+Agradecemos a submissão de suas propostas. Informamos que, após a análise de enquadramento, 3 projetos foram enquadrados e nenhum projeto foi desclassificado.
+
+Seguem os detalhes das propostas:
+
+PROJETOS COM ANÁLISE <strong style="color: green;">ENQUADRADA</strong>
+Parabenizamos o pesquisador. Os projetos abaixo seguirão para a etapa de Avaliação de Mérito:
+
+- PROPOSTA_010 - Sistema de Irrigação Automatizada com Sensores IoT - Estudo de Caso 010
+- PROPOSTA_032 - Análise Preditiva em Dados Epidemiológicos - Estudo de Caso 032
+- PROPOSTA_036 - Extração e Processamento de Dados do IBGE via Web Scraping - Estudo de Caso 036
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

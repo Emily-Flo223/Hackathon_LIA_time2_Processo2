@@ -1,0 +1,35 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Matheus Augusto Cintra,
+
+Agradecemos a submissão de suas propostas. Informamos que, após a Análise de Enquadramento, 0 projetos foram enquadrados e 3 projetos não foram enquadrados.
+
+PROJETOS NÃO ENQUADRADOS:
+
+PROPOSTA_003 - Reconhecimento de Voz para Automação Residencial - Estudo de Caso 003
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (3): PROPOSTA_003, PROPOSTA_035 e PROPOSTA_039.
+
+PROPOSTA_035 - Uso de Drones no Monitoramento Agrícola - Estudo de Caso 035
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (3 erro(s)).
+🔎 Evidência: 
+- Periódico sem ISSN e sem Percentil: Periódico 'Revista Científica Avançada 3' incompleto.
+- Quantidade de artigos incompatível com periódicos detalhados: Artigos declarados (1.1–1.8): 2 | Periódicos na sub-tabela: 3.
+- Quantidade declarada excede o teto máximo do critério: Critério '6.3. Professor com bolsa de produtividade - CNPq' | Limite: 1 | Declarado: 2.
+
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (3): PROPOSTA_003, PROPOSTA_035 e PROPOSTA_039.
+
+PROPOSTA_039 - Desenvolvimento de Robôs Móveis Autônomos - Estudo de Caso 039
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (1 erro(s)).
+🔎 Evidência: Quantidade declarada excede o teto máximo do critério: Critério '6.3. Professor com bolsa de produtividade - CNPq' | Limite: 1 | Declarado: 2.
+
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (3): PROPOSTA_003, PROPOSTA_035 e PROPOSTA_039.
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

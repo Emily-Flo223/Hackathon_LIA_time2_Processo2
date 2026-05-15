@@ -1,0 +1,37 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Professor Carlos Alberto Shinaider,
+
+Agradecemos a submissão de suas propostas. Informamos que, após a análise de enquadramento, 1 projeto foi enquadrado e 2 projetos não foram enquadrados.
+
+Seguem os detalhes dos resultados:
+
+PROJETOS COM ANÁLISE <strong style="color: green;">ENQUADRADA</strong>
+Parabenizamos o pesquisador. O projeto abaixo seguirá para a etapa de Avaliação de Mérito:
+
+PROPOSTA_014 - Visão Computacional para Monitoramento Ambiental - Estudo de Caso 014
+
+---
+
+PROJETOS COM ANÁLISE <strong style="color: red;">NÃO ENQUADRADA</strong>
+Lamentamos informar que as propostas abaixo não atenderam aos requisitos de enquadramento:
+
+PROPOSTA_021 - Implementação de Propriedades ACID em Bancos de Dados - Estudo de Caso 021
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (2 erro(s)):
+- Periódico sem ISSN e sem Percentil
+- Quantidade de artigos incompatível com periódicos detalhados
+
+🔎 Evidência: 
+- Periódico 'Revista Científica Avançada 1' incompleto
+- Artigos declarados (1.1–1.8): 2 | Periódicos na sub-tabela: 1
+
+PROPOSTA_024 - Modelagem Relacional para Dados do Mercado Financeiro - Estudo de Caso 024
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (1 erro(s)):
+- A ficha de pontuação não segue o modelo padrão da UFMS
+
+🔎 Evidência: 
+- Faltam as colunas: Total
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

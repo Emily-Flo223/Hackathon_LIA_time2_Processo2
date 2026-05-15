@@ -1,0 +1,27 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezada pesquisadora Ana Lopes da Silva,
+
+Agradecemos a submissão de sua proposta. Informamos que concluímos a análise de enquadramento da proposta detalhada abaixo:
+
+PROPOSTA_018 - <u>"Automação de Estufa Agrícola com Controle de Temperatura - Estudo de Caso 018"</u>
+
+Resultado: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+Informamos que a proposta não atende aos requisitos necessários devido às seguintes inconformidades:
+
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (2 erro(s)).
+
+🔎 Evidência: 
+- Motivo: Erro de cálculo (Qtde × Peso ≠ Total).
+- Evidência: Itens com inconsistência: 3.2. Capítulos de livros publicados
+
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (2 erro(s)).
+
+🔎 Evidência: 
+- Motivo: Inconsistência no somatório final da ficha.
+- Evidência: Soma calculada: 36.0 | Declarado: 31.0
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

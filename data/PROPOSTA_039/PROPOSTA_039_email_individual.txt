@@ -1,0 +1,26 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Matheus Augusto Cintra,
+
+Agradecemos a submissão de sua proposta e informamos que concluímos a análise de enquadramento da proposta detalhada abaixo:
+
+PROPOSTA_039 - <u>"Desenvolvimento de Robôs Móveis Autônomos - Estudo de Caso 039"</u>
+
+Resultado: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+Seguem as inconformidades identificadas:
+
+📌 Motivo: <u>Inconformidades encontradas na Ficha (1 erro(s)).</u>
+🔎 Evidência: Quantidade declarada excede o teto máximo do critério.
+Critério: '6.3. Professor com bolsa de produtividade - CNPq' | Limite: 1 | Declarado: 2
+
+📌 Motivo: <u>Proponente excedeu o limite de propostas submetidas.</u>
+🔎 Evidência: Status PQ: Não (Limite: 2).
+Projetos encontrados no sistema (3):
+- Reconhecimento de Voz para Automação Residencial - Estudo de Caso 003 (ID: PROPOSTA_003)
+- Uso de Drones no Monitoramento Agrícola - Estudo de Caso 035 (ID: PROPOSTA_035)
+- Desenvolvimento de Robôs Móveis Autônomos - Estudo de Caso 039 (ID: PROPOSTA_039)
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

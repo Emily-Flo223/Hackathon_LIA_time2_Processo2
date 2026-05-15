@@ -1,0 +1,20 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+<p>Prezada Pesquisadora Larissa Nogueira Alves,</p>
+
+<p>Agradecemos a submissão de sua proposta à modalidade PIBIC-AF - Programa Institucional de Bolsas de Iniciação Científica Nas Ações Afirmativas. Informamos que foi concluída a análise de enquadramento da proposta detalhada abaixo:</p>
+
+<p>PROPOSTA_031 - <u>"Automação Industrial com CLPs e Supervisórios - Estudo de Caso 031"</u></p>
+
+<p>Resultado: <strong style="color: red;">NÃO ENQUADRADA</strong></p>
+
+<p>📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.<br>
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (4):<br>
+- Controle Inteligente de Consumo Energético Residencial - Estudo de Caso 005 (ID: PROPOSTA_005)<br>
+- Reconhecimento de Voz para Automação Residencial - Estudo de Caso 017 (ID: PROPOSTA_017)<br>
+- Modelagem Relacional para Dados do Mercado Financeiro - Estudo de Caso 022 (ID: PROPOSTA_022)<br>
+- Automação Industrial com CLPs e Supervisórios - Estudo de Caso 031 (ID: PROPOSTA_031)</p>
+
+<p>Atenciosamente,</p>
+
+<p>Equipe SEICT/DIPEQ/PROPP - UFMS</p>

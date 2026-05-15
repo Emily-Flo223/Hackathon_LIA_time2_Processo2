@@ -1,0 +1,25 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezada pesquisadora Larissa Nogueira Alves,
+
+Agradecemos a submissão de sua proposta ao Programa Institucional de Bolsas de Iniciação Científica Nas Ações Afirmativas (PIBIC-AF). Informamos que foi concluída a análise de enquadramento da proposta detalhada abaixo:
+
+PROPOSTA_005 - <u>"Controle Inteligente de Consumo Energético Residencial - Estudo de Caso 005"</u>
+
+Resultado: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+Seguem as inconformidades identificadas:
+
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (1 erro(s)).
+🔎 Evidência: A ficha de pontuação não segue o modelo padrão da UFMS. Faltam as colunas: Total
+
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (4):
+- Controle Inteligente de Consumo Energético Residencial - Estudo de Caso 005 (ID: PROPOSTA_005)
+- Reconhecimento de Voz para Automação Residencial - Estudo de Caso 017 (ID: PROPOSTA_017)
+- Modelagem Relacional para Dados do Mercado Financeiro - Estudo de Caso 022 (ID: PROPOSTA_022)
+- Automação Industrial com CLPs e Supervisórios - Estudo de Caso 031 (ID: PROPOSTA_031)
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

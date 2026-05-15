@@ -11,9 +11,3 @@ __pycache__/
 *.pyc
 *.pyo
 .pytest_cache/
-
-# Outputs gerados em tempo de execução
-outputs/
-
-# Dados de entrada (não versionar propostas e base interna)
-data/

@@ -1,0 +1,25 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Professor Ricardo Gomes,
+
+Agradecemos a submissão de suas propostas. Informamos que, após a análise de enquadramento, 0 projetos foram enquadrados e 2 projetos não foram enquadrados.
+
+Seguem os detalhes de cada proposta:
+
+PROJETOS NÃO ENQUADRADOS:
+
+PROPOSTA_016 - Uso de Drones no Monitoramento Agrícola - Estudo de Caso 016
+Status: <strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente possui pendências institucionais impeditivas ativas com a PROPP. Pendências localizadas (1):
+- [PEND-2025-010] Falta de submissão de artigo do PIBIC anterior (Vencimento: 2025-12-01)
+
+PROPOSTA_026 - Visão Computacional para Monitoramento Ambiental - Estudo de Caso 026
+Status: <strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente possui pendências institucionais impeditivas ativas com a PROPP. Pendências localizadas (1):
+- [PEND-2025-010] Falta de submissão de artigo do PIBIC anterior (Vencimento: 2025-12-01)
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

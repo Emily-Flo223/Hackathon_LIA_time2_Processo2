@@ -1,0 +1,18 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Professor Thiago Martins Ribeiro,
+
+Agradecemos a submissão de sua proposta ao Programa Institucional de Bolsas de Iniciação Científica Nas Ações Afirmativas (PIBIC-AF). Informamos que foi concluída a análise de enquadramento da proposta detalhada abaixo:
+
+PROPOSTA_009 - <u>"Plataforma de Ensino Adaptativo com IA - Estudo de Caso 009"</u>
+
+Resultado: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+Lamentamos informar que a proposta não atende aos requisitos regulamentares, conforme as inconformidades listadas a seguir:
+
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (1 erro(s)).
+🔎 Evidência: <u>Inconsistência no somatório final da ficha</u> - Soma calculada: 52.0 | Declarado: 32.0
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

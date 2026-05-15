@@ -1,0 +1,80 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezada Camila Mendes,
+
+Agradecemos a submissão de suas propostas. Informamos que, após a auditoria de enquadramento, 0 projetos foram enquadrados e 7 projetos não foram enquadrados.
+
+PROJETOS NÃO ENQUADRADOS:
+
+PROPOSTA_006 - Aplicação de Redes Neurais em Reconhecimento Facial - Estudo de Caso 006
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (2 erro(s)).
+🔎 Evidência: 
+- Quantidade de artigos incompatível com periódicos detalhados (Artigos declarados: 0 | Periódicos na sub-tabela: 1)
+- Quantidade declarada excede o teto máximo do critério (Critério: '6.3. Professor com bolsa de produtividade - CNPq' | Limite: 1 | Declarado: 2)
+
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Sim (Limite: 3). Projetos identificados: PROPOSTA_006, PROPOSTA_012, PROPOSTA_019, PROPOSTA_020, PROPOSTA_023, PROPOSTA_034, PROPOSTA_038.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente não está vinculado a nenhum projeto de pesquisa em andamento na base interna do SIGProj/PROPP.
+
+PROPOSTA_012 - Análise Automatizada de Documentos Jurídicos - Estudo de Caso 012
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Sim (Limite: 3). Projetos identificados: PROPOSTA_006, PROPOSTA_012, PROPOSTA_019, PROPOSTA_020, PROPOSTA_023, PROPOSTA_034, PROPOSTA_038.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente não está vinculado a nenhum projeto de pesquisa em andamento na base interna do SIGProj/PROPP.
+
+PROPOSTA_019 - Análise de Sentimentos em Redes Sociais - Estudo de Caso 019
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (2 erro(s)).
+🔎 Evidência: 
+- Erro de cálculo (Qtde × Peso ≠ Total) no item 1.4 (Artigo publicado, indexado com conceito A4 QUALIS / SCOPUS 62% a 50%)
+- Inconsistência no somatório final da ficha (Soma calculada: 29.0 | Declarado: 24.0)
+
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Sim (Limite: 3). Projetos identificados: PROPOSTA_006, PROPOSTA_012, PROPOSTA_019, PROPOSTA_020, PROPOSTA_023, PROPOSTA_034, PROPOSTA_038.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente não está vinculado a nenhum projeto de pesquisa em andamento na base interna do SIGProj/PROPP.
+
+PROPOSTA_020 - Aplicações de Computação Quântica em Otimização - Estudo de Caso 020
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Sim (Limite: 3). Projetos identificados: PROPOSTA_006, PROPOSTA_012, PROPOSTA_019, PROPOSTA_020, PROPOSTA_023, PROPOSTA_034, PROPOSTA_038.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente não está vinculado a nenhum projeto de pesquisa em andamento na base interna do SIGProj/PROPP.
+
+PROPOSTA_023 - Aplicação de Deep Learning em Diagnóstico por Imagem - Estudo de Caso 023
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (1 erro(s)).
+🔎 Evidência: Inconsistência no somatório final da ficha (Soma calculada: 46.5 | Declarado: 31.5)
+
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Sim (Limite: 3). Projetos identificados: PROPOSTA_006, PROPOSTA_012, PROPOSTA_019, PROPOSTA_020, PROPOSTA_023, PROPOSTA_034, PROPOSTA_038.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente não está vinculado a nenhum projeto de pesquisa em andamento na base interna do SIGProj/PROPP.
+
+PROPOSTA_034 - Modelagem de Sistemas Multiagentes - Estudo de Caso 034
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Sim (Limite: 3). Projetos identificados: PROPOSTA_006, PROPOSTA_012, PROPOSTA_019, PROPOSTA_020, PROPOSTA_023, PROPOSTA_034, PROPOSTA_038.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente não está vinculado a nenhum projeto de pesquisa em andamento na base interna do SIGProj/PROPP.
+
+PROPOSTA_038 - Reconhecimento de Voz para Automação Residencial - Estudo de Caso 038
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Sim (Limite: 3). Projetos identificados: PROPOSTA_006, PROPOSTA_012, PROPOSTA_019, PROPOSTA_020, PROPOSTA_023, PROPOSTA_034, PROPOSTA_038.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente não está vinculado a nenhum projeto de pesquisa em andamento na base interna do SIGProj/PROPP.
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

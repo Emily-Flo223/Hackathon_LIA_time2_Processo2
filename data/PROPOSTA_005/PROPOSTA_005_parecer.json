@@ -1,0 +1,34 @@
+{
+    "id_proposta": "PROPOSTA_005",
+    "coordenador": "Larissa Nogueira Alves",
+    "unidade_lotacao": "INISA",
+    "titulo_projeto": "Controle Inteligente de Consumo Energético Residencial - Estudo de Caso 005",
+    "status_final": "NÃO ENQUADRADA",
+    "data_processamento": "2026-05-14",
+    "auditoria": [
+        {
+            "regra": "Verificação de Titulação",
+            "passou": true,
+            "motivo": "Proponente possui titulação de Doutor concluída.",
+            "evidencia": "Título da tese: Doutorado em Engenharia Elétrica. | Instituição: Universidade de São Paulo. | Conclusão: 2010."
+        },
+        {
+            "regra": "Auditoria Completa da Ficha de Pontuação",
+            "passou": false,
+            "motivo": "Inconformidades encontradas na Ficha (1 erro(s)).",
+            "evidencia": "\n• Motivo: A ficha de pontuação não segue o modelo padrão da UFMS.\n  Evidência: Faltam as colunas: Total"
+        },
+        {
+            "regra": "Limite de Propostas",
+            "passou": false,
+            "motivo": "Proponente excedeu o limite de propostas submetidas.",
+            "evidencia": "Status PQ: Não (Limite: 2).\nProjetos encontrados no sistema (4):\n  - Controle Inteligente de Consumo Energético Residencial - Estudo de Caso 005 (ID: PROPOSTA_005)\n  - Reconhecimento de Voz para Automação Residencial - Estudo de Caso 017 (ID: PROPOSTA_017)\n  - Modelagem Relacional para Dados do Mercado Financeiro - Estudo de Caso 022 (ID: PROPOSTA_022)\n  - Automação Industrial com CLPs e Supervisórios - Estudo de Caso 031 (ID: PROPOSTA_031)"
+        },
+        {
+            "regra": "Histórico/Pendências do Proponente",
+            "passou": true,
+            "motivo": "Proponente regularizado: sem pendências e com projeto em andamento.",
+            "evidencia": "Consulta à base interna finalizada com status regular.\nProjetos ativos vinculados ao pesquisador (1):\n  - [SIG.6122.2025] Análise Preditiva em Dados Epidemiológicos (Coordenador) — Vigência: 2027-03-15"
+        }
+    ]
+}

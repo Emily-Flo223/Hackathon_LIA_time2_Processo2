@@ -1,0 +1,34 @@
+{
+    "id_proposta": "PROPOSTA_016",
+    "coordenador": "Ricardo Gomes",
+    "unidade_lotacao": "FAMEZ",
+    "titulo_projeto": "Uso de Drones no Monitoramento Agrícola - Estudo de Caso 016",
+    "status_final": "NÃO ENQUADRADA",
+    "data_processamento": "2026-05-14",
+    "auditoria": [
+        {
+            "regra": "Verificação de Titulação",
+            "passou": true,
+            "motivo": "Proponente possui titulação de Doutor concluída.",
+            "evidencia": "Título da tese: Doutorado em Engenharia Elétrica. | Instituição: Universidade de São Paulo. | Conclusão: 2010."
+        },
+        {
+            "regra": "Auditoria Completa da Ficha de Pontuação",
+            "passou": true,
+            "motivo": "Ficha aprovada: estrutura, cálculos, limites e periódicos corretos.",
+            "evidencia": "• Auditoria completa realizada com sucesso."
+        },
+        {
+            "regra": "Limite de Propostas",
+            "passou": true,
+            "motivo": "Proponente respeitou o limite de propostas (máximo: 2).",
+            "evidencia": "Status PQ: Não.\nProjetos encontrados no sistema (2):\n  - Uso de Drones no Monitoramento Agrícola - Estudo de Caso 016 (ID: PROPOSTA_016)\n  - Visão Computacional para Monitoramento Ambiental - Estudo de Caso 026 (ID: PROPOSTA_026)"
+        },
+        {
+            "regra": "Histórico/Pendências do Proponente",
+            "passou": false,
+            "motivo": "Inconsistência no histórico do proponente: 1 bloqueio(s).",
+            "evidencia": "\n• Motivo: Proponente possui pendências institucionais impeditivas ativas com a PROPP.\n  Evidência: Pendências localizadas (1):\n    - [PEND-2025-010] Falta de submissão de artigo do PIBIC anterior (Vencimento: 2025-12-01)"
+        }
+    ]
+}

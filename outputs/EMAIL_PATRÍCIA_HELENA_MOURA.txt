@@ -1,0 +1,20 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezada pesquisadora Patrícia Helena Moura,
+
+Agradecemos a submissão de suas propostas. Informamos que, após a análise de enquadramento, 0 projetos foram enquadrados e 1 projeto não foi enquadrado.
+
+Seguem os detalhes abaixo:
+
+PROJETOS NÃO ENQUADRADOS:
+
+PROPOSTA_027 - Otimização de Rotas para Veículos Autônomos - Estudo de Caso 027
+Status: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (1 erro(s)).
+
+🔎 Evidência: <u>Quantidade declarada excede o teto máximo do critério</u> - Critério: '6.3. Professor com bolsa de produtividade - CNPq' | Limite: 1 | Declarado: 2
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

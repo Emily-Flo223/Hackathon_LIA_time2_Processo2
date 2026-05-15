@@ -1,0 +1,20 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Pesquisador Matheus Augusto Cintra,
+
+Agradecemos a submissão de sua proposta. Informamos que concluímos a análise de enquadramento da proposta detalhada abaixo:
+
+PROPOSTA_003 - <u>"Reconhecimento de Voz para Automação Residencial - Estudo de Caso 003"</u>
+
+Resultado: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+
+🔎 Evidência: <u>Status PQ: Não (Limite: 2)</u>. Projetos encontrados no sistema (3):
+- Reconhecimento de Voz para Automação Residencial - Estudo de Caso 003 (ID: PROPOSTA_003)
+- Uso de Drones no Monitoramento Agrícola - Estudo de Caso 035 (ID: PROPOSTA_035)
+- Desenvolvimento de Robôs Móveis Autônomos - Estudo de Caso 039 (ID: PROPOSTA_039)
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

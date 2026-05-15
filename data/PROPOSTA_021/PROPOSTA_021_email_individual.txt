@@ -1,0 +1,23 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Pesquisador Carlos Alberto Shinaider,
+
+Agradecemos a submissão de sua proposta. Informamos que foi concluída a análise de enquadramento da proposta detalhada abaixo:
+
+PROPOSTA_021 - <u>"Implementação de Propriedades ACID em Bancos de Dados - Estudo de Caso 021"</u>
+
+Informamos que a referida proposta foi considerada <strong style="color: red;">NÃO ENQUADRADA</strong>, devido às seguintes inconformidades:
+
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (2 erro(s)).
+
+🔎 Evidência: 
+- Motivo: Periódico sem ISSN e sem Percentil.
+- Evidência: Periódico 'Revista Científica Avançada 1' incompleto.
+
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Quantidade de artigos incompatível com periódicos detalhados.
+
+🔎 Evidência: Artigos declarados (1.1–1.8): 2 | Periódicos na sub-tabela: 1.
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

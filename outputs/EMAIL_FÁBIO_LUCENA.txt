@@ -1,0 +1,20 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Professor Fábio Lucena,
+
+Agradecemos a submissão de suas propostas. Informamos que, após a análise de enquadramento, 0 projetos foram enquadrados e 1 projeto não foi enquadrado.
+
+PROJETOS NÃO ENQUADRADOS:
+
+PROPOSTA_033 - Sistema de Irrigação Automatizada com Sensores IoT - Estudo de Caso 033: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+📌 Motivo: <u>Verificação de Titulação</u> - Proponente possui apenas nível de Mestrado ou inferior.
+🔎 Evidência: Apenas tag <MESTRADO> localizada na Formação Acadêmica. Tese: Mestrado em Ciências da Computação | Instituição: Universidade Federal de Mato Grosso do Sul | Conclusão: 2005.
+
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (1 erro(s)).
+🔎 Evidência: Quantidade declarada excede o teto máximo do critério.
+- Critério: '4.3. Tutoria PET' | Limite: 1 | Declarado: 2
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

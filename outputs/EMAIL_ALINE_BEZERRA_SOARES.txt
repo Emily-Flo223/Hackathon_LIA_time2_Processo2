@@ -1,0 +1,20 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezada pesquisadora Aline Bezerra Soares,
+
+Agradecemos a submissão de suas propostas. Informamos que, após a análise de enquadramento, 0 projetos foram enquadrados e 1 projeto não foi enquadrado.
+
+Seguem os detalhes referentes às suas submissões:
+
+PROJETOS NÃO ENQUADRADOS:
+
+PROPOSTA_028 - Desenvolvimento de Aplicativos Inclusivos para Deficientes Visuais - Estudo de Caso 028
+Status: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+
+🔎 Evidência: <u>Proponente não está vinculado a nenhum projeto de pesquisa em andamento</u>. A lista de projetos em andamento retornou vazia na base interna do SIGProj/PROPP.
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

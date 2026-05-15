@@ -1,0 +1,21 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Pesquisador Carlos Alberto Shinaider,
+
+Agradecemos a submissão de sua proposta. Informamos que foi concluída a análise de enquadramento da proposta detalhada abaixo:
+
+PROPOSTA_024 - <u>"Modelagem Relacional para Dados do Mercado Financeiro - Estudo de Caso 024"</u>
+
+Resultado: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+Informamos que a proposta não atendeu aos requisitos necessários para prosseguir no processo, conforme as inconformidades listadas a seguir:
+
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u>
+Inconformidades encontradas na Ficha (1 erro(s)).
+
+🔎 Evidência: <u>A ficha de pontuação não segue o modelo padrão da UFMS.</u>
+- Faltam as colunas: Total
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

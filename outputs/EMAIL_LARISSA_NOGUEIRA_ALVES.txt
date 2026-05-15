@@ -1,0 +1,37 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezada pesquisadora Larissa Nogueira Alves,
+
+Agradecemos a submissão de suas propostas. Informamos que, após a análise de enquadramento, 0 projetos foram enquadrados e 4 projetos não foram enquadrados.
+
+PROJETOS NÃO ENQUADRADOS:
+
+PROPOSTA_005 - Controle Inteligente de Consumo Energético Residencial - Estudo de Caso 005
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (1 erro(s)).
+🔎 Evidência: A ficha de pontuação não segue o modelo padrão da UFMS. Faltam as colunas: Total
+
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (4): PROPOSTA_005, PROPOSTA_017, PROPOSTA_022 e PROPOSTA_031.
+
+PROPOSTA_017 - Reconhecimento de Voz para Automação Residencial - Estudo de Caso 017
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (1 erro(s)).
+🔎 Evidência: Quantidade declarada excede o teto máximo do critério. Critério: '6.3. Professor com bolsa de produtividade - CNPq' | Limite: 1 | Declarado: 2
+
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (4): PROPOSTA_005, PROPOSTA_017, PROPOSTA_022 e PROPOSTA_031.
+
+PROPOSTA_022 - Modelagem Relacional para Dados do Mercado Financeiro - Estudo de Caso 022
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (4): PROPOSTA_005, PROPOSTA_017, PROPOSTA_022 e PROPOSTA_031.
+
+PROPOSTA_031 - Automação Industrial com CLPs e Supervisórios - Estudo de Caso 031
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos encontrados no sistema (4): PROPOSTA_005, PROPOSTA_017, PROPOSTA_022 e PROPOSTA_031.
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

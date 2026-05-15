@@ -1,0 +1,94 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezada Fernanda Costa Poganski,
+
+Agradecemos a submissão de suas propostas. Informamos que, após a análise de enquadramento, 0 projetos foram enquadrados e 8 projetos não foram enquadrados.
+
+PROJETOS NÃO ENQUADRADOS:
+
+PROPOSTA_004 - Aplicação de Redes Neurais em Reconhecimento Facial - Estudo de Caso 004
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos identificados: PROPOSTA_004, PROPOSTA_008, PROPOSTA_011, PROPOSTA_025, PROPOSTA_029, PROPOSTA_030, PROPOSTA_037, PROPOSTA_040.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente possui pendências institucionais impeditivas ativas com a PROPP:
+- [PEND-2024-089] Relatório Final PIBIC 2024/2025 em atraso (Vencimento: 2025-08-30)
+- [PEND-2023-112] Prestação de contas do edital 15/2023 pendente (Vencimento: 2024-01-15)
+
+PROPOSTA_008 - Predição de Séries Temporais Financeiras - Estudo de Caso 008
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos identificados: PROPOSTA_004, PROPOSTA_008, PROPOSTA_011, PROPOSTA_025, PROPOSTA_029, PROPOSTA_030, PROPOSTA_037, PROPOSTA_040.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente possui pendências institucionais impeditivas ativas com a PROPP:
+- [PEND-2024-089] Relatório Final PIBIC 2024/2025 em atraso (Vencimento: 2025-08-30)
+- [PEND-2023-112] Prestação de contas do edital 15/2023 pendente (Vencimento: 2024-01-15)
+
+PROPOSTA_011 - Projeto de Fonte de Alimentação Linear 12V e 5V - Estudo de Caso 011
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos identificados: PROPOSTA_004, PROPOSTA_008, PROPOSTA_011, PROPOSTA_025, PROPOSTA_029, PROPOSTA_030, PROPOSTA_037, PROPOSTA_040.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente possui pendências institucionais impeditivas ativas com a PROPP:
+- [PEND-2024-089] Relatório Final PIBIC 2024/2025 em atraso (Vencimento: 2025-08-30)
+- [PEND-2023-112] Prestação de contas do edital 15/2023 pendente (Vencimento: 2024-01-15)
+
+PROPOSTA_025 - Aplicações de Computação Quântica em Otimização - Estudo de Caso 025
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos identificados: PROPOSTA_004, PROPOSTA_008, PROPOSTA_011, PROPOSTA_025, PROPOSTA_029, PROPOSTA_030, PROPOSTA_037, PROPOSTA_040.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente possui pendências institucionais impeditivas ativas com a PROPP:
+- [PEND-2024-089] Relatório Final PIBIC 2024/2025 em atraso (Vencimento: 2025-08-30)
+- [PEND-2023-112] Prestação de contas do edital 15/2023 pendente (Vencimento: 2024-01-15)
+
+PROPOSTA_029 - Modelagem Matemática de Epidemias - Estudo de Caso 029
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Auditoria Completa da Ficha de Pontuação</u> - Inconformidades encontradas na Ficha (1 erro(s)).
+🔎 Evidência: Critério: '4.3. Tutoria PET' | Limite: 1 | Declarado: 2
+
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos identificados: PROPOSTA_004, PROPOSTA_008, PROPOSTA_011, PROPOSTA_025, PROPOSTA_029, PROPOSTA_030, PROPOSTA_037, PROPOSTA_040.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente possui pendências institucionais impeditivas ativas com a PROPP:
+- [PEND-2024-089] Relatório Final PIBIC 2024/2025 em atraso (Vencimento: 2025-08-30)
+- [PEND-2023-112] Prestação de contas do edital 15/2023 pendente (Vencimento: 2024-01-15)
+
+PROPOSTA_030 - Análise de Dados Climáticos com Big Data - Estudo de Caso 030
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos identificados: PROPOSTA_004, PROPOSTA_008, PROPOSTA_011, PROPOSTA_025, PROPOSTA_029, PROPOSTA_030, PROPOSTA_037, PROPOSTA_040.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente possui pendências institucionais impeditivas ativas com a PROPP:
+- [PEND-2024-089] Relatório Final PIBIC 2024/2025 em atraso (Vencimento: 2025-08-30)
+- [PEND-2023-112] Prestação de contas do edital 15/2023 pendente (Vencimento: 2024-01-15)
+
+PROPOSTA_037 - Plataforma de Ensino Adaptativo com IA - Estudo de Caso 037
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos identificados: PROPOSTA_004, PROPOSTA_008, PROPOSTA_011, PROPOSTA_025, PROPOSTA_029, PROPOSTA_030, PROPOSTA_037, PROPOSTA_040.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente possui pendências institucionais impeditivas ativas com a PROPP:
+- [PEND-2024-089] Relatório Final PIBIC 2024/2025 em atraso (Vencimento: 2025-08-30)
+- [PEND-2023-112] Prestação de contas do edital 15/2023 pendente (Vencimento: 2024-01-15)
+
+PROPOSTA_040 - Visão Computacional para Monitoramento Ambiental - Estudo de Caso 040
+<strong style="color: red;">NÃO ENQUADRADA</strong>
+📌 Motivo: <u>Limite de Propostas</u> - Proponente excedeu o limite de propostas submetidas.
+🔎 Evidência: Status PQ: Não (Limite: 2). Projetos identificados: PROPOSTA_004, PROPOSTA_008, PROPOSTA_011, PROPOSTA_025, PROPOSTA_029, PROPOSTA_030, PROPOSTA_037, PROPOSTA_040.
+
+📌 Motivo: <u>Histórico/Pendências do Proponente</u> - Inconsistência no histórico do proponente: 1 bloqueio(s).
+🔎 Evidência: Proponente possui pendências institucionais impeditivas ativas com a PROPP:
+- [PEND-2024-089] Relatório Final PIBIC 2024/2025 em atraso (Vencimento: 2025-08-30)
+- [PEND-2023-112] Prestação de contas do edital 15/2023 pendente (Vencimento: 2024-01-15)
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

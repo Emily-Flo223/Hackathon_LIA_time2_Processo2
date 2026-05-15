@@ -1,0 +1,18 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas IC&T UFMS
+
+Prezado Professor Thiago Martins Ribeiro,
+
+Agradecemos a submissão de sua proposta e informamos que concluímos a análise de enquadramento do projeto detalhado abaixo:
+
+PROPOSTA_007 - <u>"Plataforma de Ensino Adaptativo com IA - Estudo de Caso 007"</u>
+
+Informamos que a proposta foi classificada como: <strong style="color: red;">NÃO ENQUADRADA</strong>
+
+Seguem as inconformidades identificadas:
+
+📌 Motivo: <u>Inconformidades encontradas na Ficha (1 erro(s))</u>
+🔎 Evidência: <u>Quantidade declarada excede o teto máximo do critério</u> - Critério: '6.3. Professor com bolsa de produtividade - CNPq' | Limite: 1 | Declarado: 2
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

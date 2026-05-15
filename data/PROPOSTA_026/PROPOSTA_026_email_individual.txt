@@ -1,0 +1,18 @@
+Assunto: Resultado da Análise de Enquadramento - Bolsas PIBITI UFMS
+
+Prezado Pesquisador Ricardo Gomes,
+
+Agradecemos a submissão de sua proposta e informamos que concluímos a análise de enquadramento da proposta detalhada abaixo:
+
+PROPOSTA_026 - <u>"Visão Computacional para Monitoramento Ambiental - Estudo de Caso 026"</u>
+
+Informamos que a referida proposta foi classificada como <strong style="color: red;">NÃO ENQUADRADA</strong>, devido às seguintes inconformidades:
+
+📌 Motivo: <u>Inconsistência no histórico do proponente: 1 bloqueio(s)</u>.
+🔎 Evidência: <u>Proponente possui pendências institucionais impeditivas ativas com a PROPP</u>.
+Pendências localizadas (1):
+- [PEND-2025-010] Falta de submissão de artigo do PIBIC anterior (Vencimento: 2025-12-01)
+
+Atenciosamente,
+
+Equipe SEICT/DIPEQ/PROPP - UFMS

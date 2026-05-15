@@ -1,0 +1,88 @@
+{
+    "id_proposta": "PROPOSTA_027",
+    "dados_coordenador": {
+        "nome": "Patr\u00edcia Helena Moura",
+        "1_nivel_academico": "Doutorado",
+        "2_vinculo_institucional": "Docente efetivo do quadro",
+        "3_pos_graduacao": "Membro permanente do Programa de P\u00f3s-Gradua\u00e7\u00e3o stricto sensu da UFMS.",
+        "4_link_lattes": "http://lattes.cnpq.br/8600167335066169",
+        "5_numero_orcid": "0000-0008-5084-7940",
+        "6_cpf": "404.404.404-40",
+        "22_retorno_licenca_maternidade_ou_adotante": "N\u00e3o",
+        "23_servidor_empossado_ultimos_tres_anos": "N\u00e3o"
+    },
+    "dados_projeto": {
+        "7_titulo_plano_trabalho": "Otimiza\u00e7\u00e3o de Rotas para Ve\u00edculos Aut\u00f4nomos - Estudo de Caso 027",
+        "8_palavras_chave": [
+            "Sa\u00fade P\u00fablica",
+            "Rob\u00f3tica",
+            "Educa\u00e7\u00e3o Digital"
+        ],
+        "9_programa": "PIBIC-AF - Programa Institucional de Bolsas de Inicia\u00e7\u00e3o Cient\u00edfica Nas A\u00e7\u00f5es Afirmativas",
+        "10_areas_conhecimento": [
+            "Engenharias"
+        ],
+        "11_titulo_projeto_pesquisa_em_andamento": "Intelig\u00eancia Artificial Explic\u00e1vel para Diagn\u00f3stico M\u00e9dico",
+        "12_nome_coordenador_projeto_andamento": "Patr\u00edcia Helena Moura",
+        "13_unidade_executora": "FACOM",
+        "14_unidade_orgao_execucao": "Universidade Federal de Mato Grosso do Sul",
+        "15_inicio_previsto": "01/09/2024",
+        "16_duracao_meses": 12,
+        "17_gera_patente": "N\u00e3o",
+        "18_possui_inovacao_tecnologica": "N\u00e3o",
+        "19_objetivos_desenvolvimento_sustentavel": [
+            "ODS 4: Educa\u00e7\u00e3o de Qualidade"
+        ],
+        "20_areas_prioritarias_mcti": "Tecnologias Estrat\u00e9gicas",
+        "21_areas_estrategicas_ms": "Bioeconomia e Agroneg\u00f3cio",
+        "24_envolve_estudante_em_projeto_ciencia_basica": "Sim",
+        "25_ficha_pontuacao_arquivo": "ficha_pontuacao.xlsx",
+        "26_introducao_justificativa": "A justificativa deste projeto baseia-se na necessidade regional de inova\u00e7\u00e3o...",
+        "27_objetivos": "O objetivo principal \u00e9 projetar, implementar e validar novas solu\u00e7\u00f5es...",
+        "28_metodologia": "Ser\u00e1 empregada uma metodologia \u00e1gil e revis\u00e3o sistem\u00e1tica...",
+        "29_resultados_esperados": "Espera-se como resultado a publica\u00e7\u00e3o de artigos e forma\u00e7\u00e3o de RH.",
+        "30_impacto_social": "Melhoria direta no setor produtivo local.",
+        "31_cronograma": [
+            {
+                "atividade": "Revis\u00e3o Bibliogr\u00e1fica",
+                "mes_inicio": 1,
+                "duracao_meses": 2
+            },
+            {
+                "atividade": "Desenvolvimento e Coleta de Dados",
+                "mes_inicio": 3,
+                "duracao_meses": 6
+            },
+            {
+                "atividade": "An\u00e1lise de Resultados e Escrita",
+                "mes_inicio": 9,
+                "duracao_meses": 3
+            }
+        ],
+        "32_referencias": "SILVA, A. Pesquisa Aplicada. 2. ed. S\u00e3o Paulo: Editora XPTO, 2023.",
+        "33_anexo_plano_trabalho_pdf": "plano_trabalho_completo.pdf"
+    },
+    "dados_estudante": {
+        "34_programa_contemplado_resultado_final": "PIBIC-AF-UFMS (Programa de Inicia\u00e7\u00e3o com fomento da UFMS)",
+        "35_nome_estudante": "Julia Queiroz",
+        "36_sexo": "Feminino",
+        "37_autodeclaracao_etnica": "N\u00e3o declarada",
+        "38_tipo_vaga": "Ampla concorr\u00eancia",
+        "39_passaporte_ufms": "julia.queiroz",
+        "40_unidade": "FACOM",
+        "41_cpf": "800.960.726-71",
+        "42_rga": "2024490021",
+        "43_curso": "Enfermagem",
+        "44_link_curriculo_lattes": "http://lattes.cnpq.br/3113438675603838",
+        "45_email": "julia.queiroz@ufms.br",
+        "46_telefone": "(67) 99999-0000",
+        "47_informacoes_bancarias": {
+            "banco": "Banco do Brasil",
+            "codigo_banco": "001",
+            "numero_agencia": "1234",
+            "numero_conta": "5678-9"
+        },
+        "48_termo_concessao_ou_responsabilidade": "termo_assinado.pdf",
+        "49_substituicao_estudante": "N\u00e3o"
+    }
+}
